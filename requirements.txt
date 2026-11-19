@@ -1,0 +1,6 @@
+streamlit==1.45.1
+pyspark==3.5.3
+scikit-learn>=1.4,<1.8
+pandas>=2.0,<2.3
+numpy>=1.26,<2.0
+plotly>=5.20,<6.0
